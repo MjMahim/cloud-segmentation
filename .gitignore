@@ -1,0 +1,12 @@
+.venv/
+data/
+runs/
+__pycache__/
+.claude/
+.vscode/
+*.pt
+*.pth
+*.npy
+results/*.pdf
+results/preds/
+results/scenes/
