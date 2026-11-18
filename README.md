@@ -41,4 +41,4 @@ python make_figures.py
 | `evaluate.py` | Full-scene evaluation of the models and the brightness baseline |
 | `make_figures.py`, `summarize.py`, `explore.py` | Figures, result table, data exploration |
 
-Course project for *CS & AI Working Life*, LUT University, 2026.
+Course project for *CS & AI Working Life*, LUT University, 2026, by Monjurul Islam Mahim.
